@@ -128,16 +128,21 @@ Damit ist es mir schneller möglich dich mit deinem richtigen Namen zu identifiz
 * Nur wenn ich diese Übungen regelmäßig selbst mache, 
 	+ Kann ich Programmieren erlernen und 
 	+ das Fach Softwareentwicklung positiv abschließen.
-	+ Sollte ich einmal krank sein oder aus anderen Gründen fehlen, so habe ich diese Übungen bis zur nächsten Stunde nachzuholen.
-	+ Für alle Übungen gibt es einen Endtermin, an dem die Übungen fertiggestellt sein müssen. 
-	+ Ich kümmere mich selbst darum, dass ich die Übungsangaben rechtzeitig bekomme. (Diese befinden sich entweder im bereitgestellten Foliensatz oder in Moodle)
+
+* Sollte ich einmal krank sein oder aus anderen Gründen fehlen, so habe ich diese Übungen bis zur nächsten Stunde nachzuholen.
+
+* Für alle Übungen gibt es einen Endtermin, an dem die Übungen fertiggestellt sein müssen. 
+
+* Ich kümmere mich selbst darum, dass ich die Übungsangaben rechtzeitig bekomme. (Diese befinden sich entweder im bereitgestellten, im SEW Repository oder meinem Vorlagenlaufwerk)
 
 * Ich bin jederzeit bereit, diese Übungen der Lehrkraft vorzuführen.
+
 * Wenn ich inhaltlich etwas nicht verstanden habe, muss ich aktiv werden und entweder meine Mitschüler oder die Lehrkraft um Hilfe bitten.
+
 * Ich besitze einen betriebsbereiten Laptop, der alle für die Softwareentwicklung notwendigen Programme (Entwicklungsumgebung) sowie meine sämtlichen ausprogrammierten Beispiele enthält. Ich kann diese Programme jederzeit vorführen.
 
-Ich bin für alle genannten Punkte selbst verantwortlich und muss mich selbstständig um deren Einhaltung kümmern!
+* Ich bin für alle genannten Punkte selbst verantwortlich und muss mich selbstständig um deren Einhaltung kümmern!
+
 * Ich habe alle Punkte durchgelesen und auch verstanden. 
+
 * Auch meine Eltern haben diese Vereinbarung gelesen. 
-
-
