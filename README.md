@@ -28,7 +28,7 @@ Bei korrekter Konfiguration erkennt auch IntelliJ in den Unterprojekten, dass es
 Deine persönliche Repositories für dieses Schuljahr findest du hier: 
 * [4HIT Classroom SEW](https://classroom.github.com/assignment-invitations/55e06d52b7a3116abbb6366af0116ddd)
 * [4HIT Classroom Tetris](https://classroom.github.com/assignment-invitations/769e319810e14d9ee9fd7f8734256508)
-* 
+
 ### 1.3 ".gitignore"
 git kann mittels der Datei ".gitignore" mitgeteilt werden, welche Dateien bzw. Ordner NICHT unter git-Kontrolle stehen. Das ist natürlich sinnvoll, denn Beispielsweise .class Dateien oder IntelliJ Projekteinstellungen sollten nicht hochgeladen werden.
 
