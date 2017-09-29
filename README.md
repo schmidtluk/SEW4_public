@@ -1,4 +1,4 @@
-# Herzlich Willkommen bei SEW4 im SJ 2016/17!
+# Herzlich Willkommen bei SEW4!
 
 ## 0. Wichtige Links
 * Sollten Fehler im bereitgestellten Material auftreten, bitte bei meinen ["GitHub Issues"](https://github.com/Javaw0cky/SEW4/issues) eintragen
