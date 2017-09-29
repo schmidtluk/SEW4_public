@@ -1,9 +1,8 @@
 # Herzlich Willkommen bei SEW4 im SJ 2016/17!
 
 ## 0. Wichtige Links
-* Sollten Fehler im bereitgestellten Material auftreten, bitte bei meinen ["GitHub Issues"](https://github.com/Javaw0cky/SEW4_SJ_2016-17/issues) eintragen
-* SEW-Repository: [4HIT Classroom](https://classroom.github.com/assignment-invitations/55e06d52b7a3116abbb6366af0116ddd)
-* Tetris-Repository: [4HIT Classroom](https://classroom.github.com/assignment-invitations/769e319810e14d9ee9fd7f8734256508)
+* Sollten Fehler im bereitgestellten Material auftreten, bitte bei meinen ["GitHub Issues"](https://github.com/Javaw0cky/SEW4/issues) eintragen
+* SEW-Repository: [4HIT Classroom](https://classroom.github.com/a/gMVFrfRl)
 * Hilfe bekommst du hier:
 	+ "Diskussionsforum zum Unterricht:" [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW4?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 	+ [Stack Overflow](http://stackoverflow.com)
@@ -107,42 +106,12 @@ Thumbs.db
 ```
 
 ### 1.4 README.md
-Lies nun bitte die Vereinbarung im nächsten Kapitel. Bestätige den Inhalt, in dem du eine Datei <b>README.md</b> mit folgendem Inhalt erstellst:
+Erstelle eine Datei <b>README.md</b> mit folgendem Inhalt bzw. ändere eine Datei, sofern sie schon erstellt wurde:
 ```
 # SEW 4 - SJ 2xxx/xx
 ----
 Name: Vorname Nachname
-
-Ich bestätige hiermit die getroffene Vereinbarung.
+...
 ```
+
 Damit ist es mir schneller möglich dich mit deinem richtigen Namen zu identifizieren - die Repos kommen beim clonen immer mit deinem GitHub-Usernamen an. Daraus läßt sich unter Umständen nicht schließen, von wem die Arbeit kommt.
-
-
-
-### 2. Vereinbarung 
-
-* Softwareentwicklung und Programmieren können nur durch regelmäßiges (wöchentliches, mind. 2-4 Stunden) Training und Üben anhand von Übungsbeispielen erlernt werden.
-
-* Programmierbeispiele, die, sowohl im Unterricht in der Schule als auch zu Hause durchzuführen sind, sind ein wesentlicher Bestandteil, damit ich Programmieren erlernen kann.
-
-* Nur wenn ich diese Übungen regelmäßig selbst mache, 
-	+ Kann ich Programmieren erlernen und 
-	+ das Fach Softwareentwicklung positiv abschließen.
-
-* Sollte ich einmal krank sein oder aus anderen Gründen fehlen, so habe ich diese Übungen bis zur nächsten Stunde nachzuholen.
-
-* Für alle Übungen gibt es einen Endtermin, an dem die Übungen fertiggestellt sein müssen. 
-
-* Ich kümmere mich selbst darum, dass ich die Übungsangaben rechtzeitig bekomme. (Diese befinden sich entweder im bereitgestellten, im SEW Repository oder meinem Vorlagenlaufwerk)
-
-* Ich bin jederzeit bereit, diese Übungen der Lehrkraft vorzuführen.
-
-* Wenn ich inhaltlich etwas nicht verstanden habe, muss ich aktiv werden und entweder meine Mitschüler oder die Lehrkraft um Hilfe bitten.
-
-* Ich besitze einen betriebsbereiten Laptop, der alle für die Softwareentwicklung notwendigen Programme (Entwicklungsumgebung) sowie meine sämtlichen ausprogrammierten Beispiele enthält. Ich kann diese Programme jederzeit vorführen.
-
-* Ich bin für alle genannten Punkte selbst verantwortlich und muss mich selbstständig um deren Einhaltung kümmern!
-
-* Ich habe alle Punkte durchgelesen und auch verstanden. 
-
-* Auch meine Eltern haben diese Vereinbarung gelesen. 
