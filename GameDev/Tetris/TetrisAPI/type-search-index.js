@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.helml.trektris.server","l":"TetrisArena"}]
