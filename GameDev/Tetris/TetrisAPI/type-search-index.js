@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"com.helml.trektris.server","l":"TetrisArena"}]
+typeSearchIndex = [{"p":"com.helml.trektris.server","l":"TetrisArena"},{"p":"com.helml.trektris.server","l":"Tetromino"}]
